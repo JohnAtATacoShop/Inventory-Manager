@@ -1,1 +1,1 @@
-This project aims to allow for seemless inventory managing free to to use.
+This project aims to allow for seemless inventory managing free to use.
