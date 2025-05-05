@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f0c6;;
+    color: #74A662;
+}
+
+.header__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+}
+
+.nav__options {
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    padding: 25px;
+}
+
+
+li {
+    list-style-type: none;
+}
